@@ -1,0 +1,13 @@
+body{
+    body {
+        font: serif;
+        margin: 0;
+        padding: 0;
+        height: 100vh;
+        background-color: white;
+    }
+    h1 {
+        color: #2e8b57;
+        font-size: 60px;
+    }
+}
